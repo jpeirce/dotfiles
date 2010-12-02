@@ -1,0 +1,1 @@
+/home/jackson/.config/awesome/rc.lua
